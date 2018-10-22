@@ -1,3 +1,0 @@
-D:\Users\Mika\Documents\Unreal Projects\MyProject\Source\MyProject\MyProject.Build.cs
-D:\Users\Mika\Documents\Unreal Projects\MyProject\Source\MyProject.Target.cs
-D:\Users\Mika\Documents\Unreal Projects\MyProject\Source\MyProjectEditor.Target.cs
