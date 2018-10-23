@@ -1,0 +1,10 @@
+﻿  Creating makefile for Unreal_ProjektiEditor (ini files are newer than UBTMakefile)
+  Using Visual Studio 2015 14.0 toolchain (D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+  Building 3 actions with 4 processes...
+    [1/3] Pallo.cpp
+    [2/3] UE4Editor-Unreal_Projekti.lib
+       Creating library D:\Users\Mika\Documents\Unreal Projects\Unreal_Projekti\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Projekti\UE4Editor-Unreal_Projekti.lib and object D:\Users\Mika\Documents\Unreal Projects\Unreal_Projekti\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Projekti\UE4Editor-Unreal_Projekti.exp
+    [3/3] UE4Editor-Unreal_Projekti.dll
+       Creating library D:\Users\Mika\Documents\Unreal Projects\Unreal_Projekti\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Projekti\UE4Editor-Unreal_Projekti.suppressed.lib and object D:\Users\Mika\Documents\Unreal Projects\Unreal_Projekti\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Projekti\UE4Editor-Unreal_Projekti.suppressed.exp
+  Deploying Unreal_ProjektiEditor Win64 Development...
+  Total build time: 7,63 seconds (Parallel executor: 1,39 seconds)

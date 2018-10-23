@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Unreal_Projekti.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3BD93C3A-B2FF-4893-963B-D2DA2914DD00}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_Projekti.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Unreal_ProjektiEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AAE38E5B-8D8B-46D6-8BF0-37A08FB04FDE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Unreal_Projekti">
+      <UniqueIdentifier>{B6FF0ECC-66CE-46C2-8DF1-911EA46D5054}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_Projekti\Unreal_Projekti.Build.cs">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Unreal_Projekti\Unreal_Projekti.cpp">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Projekti\Unreal_Projekti.h">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Projekti\Unreal_ProjektiGameModeBase.cpp">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Projekti\Unreal_ProjektiGameModeBase.h">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Unreal_Projekti\Pallo.h">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Unreal_Projekti\Pawn_Pallo.h">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Unreal_Projekti\Pallo.cpp">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Unreal_Projekti\Pawn_Pallo.cpp">
+      <Filter>Source\Unreal_Projekti</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

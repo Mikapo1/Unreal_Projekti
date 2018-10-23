@@ -1,8 +1,0 @@
-﻿  Building 3 actions with 4 processes...
-    [1/3] MyActor.cpp
-    [2/3] UE4Editor-Youtube.lib
-       Creating library D:\Users\Mika\Documents\Unreal Projects\Youtube\Intermediate\Build\Win64\UE4Editor\Development\Youtube\UE4Editor-Youtube.lib and object D:\Users\Mika\Documents\Unreal Projects\Youtube\Intermediate\Build\Win64\UE4Editor\Development\Youtube\UE4Editor-Youtube.exp
-    [3/3] UE4Editor-Youtube.dll
-       Creating library D:\Users\Mika\Documents\Unreal Projects\Youtube\Intermediate\Build\Win64\UE4Editor\Development\Youtube\UE4Editor-Youtube.suppressed.lib and object D:\Users\Mika\Documents\Unreal Projects\Youtube\Intermediate\Build\Win64\UE4Editor\Development\Youtube\UE4Editor-Youtube.suppressed.exp
-  Deploying YoutubeEditor Win64 Development...
-  Total build time: 2,70 seconds (Parallel executor: 1,37 seconds)
